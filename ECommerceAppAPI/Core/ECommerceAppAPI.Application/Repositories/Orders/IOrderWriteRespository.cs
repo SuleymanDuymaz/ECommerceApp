@@ -1,0 +1,13 @@
+﻿using ECommerceAppAPI.Domain.Entities;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ECommerceAppAPI.Application.Repositories.Orders
+{
+    public interface IOrderWriteRespository : IWriteRepository<Order>
+    {
+    }
+}
