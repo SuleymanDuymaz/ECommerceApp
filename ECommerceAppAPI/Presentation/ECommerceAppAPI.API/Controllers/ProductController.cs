@@ -29,7 +29,7 @@ namespace ECommerceAppAPI.API.Controllers
             //await _productWriteRepository.SaveAsync();
 
             var data = await _productReadRepository.GetByIdAsync("5925da87-450b-4d8c-b230-df6d9262ad2f", true);
-            data.Name = "Beni sev";
+            data.Name = "Naber";
             await _productWriteRepository.SaveAsync();
         }
 

@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8FAE4512-BCAD-4A81-86C5-7FD63DB2D9B3}|Presentation\\ECommerceAppAPI.API\\ECommerceAppAPI.API.csproj|c:\\users\\sduym\\source\\repos\\ecommerceapp\\ecommerceappapi\\presentation\\ecommerceappapi.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FAE4512-BCAD-4A81-86C5-7FD63DB2D9B3}|Presentation\\ECommerceAppAPI.API\\ECommerceAppAPI.API.csproj|solutionrelative:presentation\\ecommerceappapi.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60C35B5C-3D61-4D58-91FF-54D70F877202}|Infrastructure\\ECommerceAppAPI.Persistence\\ECommerceAppAPI.Persistence.csproj|c:\\users\\sduym\\source\\repos\\ecommerceapp\\ecommerceappapi\\infrastructure\\ecommerceappapi.persistence\\context\\ecommerceappapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60C35B5C-3D61-4D58-91FF-54D70F877202}|Infrastructure\\ECommerceAppAPI.Persistence\\ECommerceAppAPI.Persistence.csproj|c:\\users\\sduym\\source\\repos\\ecommerceapp\\ecommerceapp\\ecommerceappapi\\infrastructure\\ecommerceappapi.persistence\\context\\ecommerceappapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60C35B5C-3D61-4D58-91FF-54D70F877202}|Infrastructure\\ECommerceAppAPI.Persistence\\ECommerceAppAPI.Persistence.csproj|solutionrelative:infrastructure\\ecommerceappapi.persistence\\context\\ecommerceappapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A146F308-B168-4F75-B3B6-A8DAAAE21F78}|Core\\ECommerceAppAPI.Domain\\ECommerceAppAPI.Domain.csproj|c:\\users\\sduym\\source\\repos\\ecommerceapp\\ecommerceappapi\\core\\ecommerceappapi.domain\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8FAE4512-BCAD-4A81-86C5-7FD63DB2D9B3}|Presentation\\ECommerceAppAPI.API\\ECommerceAppAPI.API.csproj|c:\\users\\sduym\\source\\repos\\ecommerceapp\\ecommerceapp\\ecommerceappapi\\presentation\\ecommerceappapi.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FAE4512-BCAD-4A81-86C5-7FD63DB2D9B3}|Presentation\\ECommerceAppAPI.API\\ECommerceAppAPI.API.csproj|solutionrelative:presentation\\ecommerceappapi.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A146F308-B168-4F75-B3B6-A8DAAAE21F78}|Core\\ECommerceAppAPI.Domain\\ECommerceAppAPI.Domain.csproj|c:\\users\\sduym\\source\\repos\\ecommerceapp\\ecommerceapp\\ecommerceappapi\\core\\ecommerceappapi.domain\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A146F308-B168-4F75-B3B6-A8DAAAE21F78}|Core\\ECommerceAppAPI.Domain\\ECommerceAppAPI.Domain.csproj|solutionrelative:core\\ecommerceappapi.domain\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60C35B5C-3D61-4D58-91FF-54D70F877202}|Infrastructure\\ECommerceAppAPI.Persistence\\ECommerceAppAPI.Persistence.csproj|c:\\users\\sduym\\source\\repos\\ecommerceapp\\ecommerceappapi\\infrastructure\\ecommerceappapi.persistence\\migrations\\20240123201020_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60C35B5C-3D61-4D58-91FF-54D70F877202}|Infrastructure\\ECommerceAppAPI.Persistence\\ECommerceAppAPI.Persistence.csproj|c:\\users\\sduym\\source\\repos\\ecommerceapp\\ecommerceapp\\ecommerceappapi\\infrastructure\\ecommerceappapi.persistence\\migrations\\20240123201020_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60C35B5C-3D61-4D58-91FF-54D70F877202}|Infrastructure\\ECommerceAppAPI.Persistence\\ECommerceAppAPI.Persistence.csproj|solutionrelative:infrastructure\\ecommerceappapi.persistence\\migrations\\20240123201020_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -49,27 +49,31 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Presentation\\ECommerceAppAPI.API\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Presentation\\ECommerceAppAPI.API\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Presentation\\ECommerceAppAPI.API\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Presentation\\ECommerceAppAPI.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Presentation\\ECommerceAppAPI.API\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Presentation\\ECommerceAppAPI.API\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACAAAAAMAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAB8AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-01-23T20:21:52.649Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ECommerceAppAPIDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Persistence\\Context\\ECommerceAppAPIDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Persistence\\Context\\ECommerceAppAPIDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\ECommerceAppAPI.Persistence\\Context\\ECommerceAppAPIDbContext.cs",
-              "ToolTip": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Persistence\\Context\\ECommerceAppAPIDbContext.cs",
+              "ToolTip": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Persistence\\Context\\ECommerceAppAPIDbContext.cs",
               "RelativeToolTip": "Infrastructure\\ECommerceAppAPI.Persistence\\Context\\ECommerceAppAPIDbContext.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAD4vyYAAAAIAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAArwBQAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-01-23T20:11:27.95Z",
               "EditorCaption": ""
@@ -78,9 +82,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Domain\\Entities\\Common\\BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Domain\\Entities\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Core\\ECommerceAppAPI.Domain\\Entities\\Common\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Domain\\Entities\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Domain\\Entities\\Common\\BaseEntity.cs",
               "RelativeToolTip": "Core\\ECommerceAppAPI.Domain\\Entities\\Common\\BaseEntity.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -90,9 +94,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "20240123201020_mig_1.cs",
-              "DocumentMoniker": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Persistence\\Migrations\\20240123201020_mig_1.cs",
+              "DocumentMoniker": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Persistence\\Migrations\\20240123201020_mig_1.cs",
               "RelativeDocumentMoniker": "Infrastructure\\ECommerceAppAPI.Persistence\\Migrations\\20240123201020_mig_1.cs",
-              "ToolTip": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Persistence\\Migrations\\20240123201020_mig_1.cs",
+              "ToolTip": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Persistence\\Migrations\\20240123201020_mig_1.cs",
               "RelativeToolTip": "Infrastructure\\ECommerceAppAPI.Persistence\\Migrations\\20240123201020_mig_1.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

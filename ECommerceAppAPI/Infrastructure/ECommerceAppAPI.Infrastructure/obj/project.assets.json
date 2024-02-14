@@ -2278,11 +2278,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Infrastructure\\ECommerceAppAPI.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Infrastructure\\ECommerceAppAPI.Infrastructure.csproj",
       "projectName": "ECommerceAppAPI.Infrastructure",
-      "projectPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Infrastructure\\ECommerceAppAPI.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Infrastructure\\ECommerceAppAPI.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\sduym\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sduym\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2299,8 +2299,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Application\\ECommerceAppAPI.Application.csproj": {
-              "projectPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Application\\ECommerceAppAPI.Application.csproj"
+            "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Application\\ECommerceAppAPI.Application.csproj": {
+              "projectPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Application\\ECommerceAppAPI.Application.csproj"
             }
           }
         }
