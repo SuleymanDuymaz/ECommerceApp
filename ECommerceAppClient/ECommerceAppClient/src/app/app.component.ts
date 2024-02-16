@@ -1,5 +1,8 @@
 import { Component, OnInit } from '@angular/core';
-import { AlertifyService, MessageType, Position } from './services/admin/alertify.service';
+
+import { ToastrService } from 'ngx-toastr';
+import { CustomToastrService, ToastrMessasgeType, ToastrPosition } from './services/ui/custom-toastr.service';
+import { NgxSpinnerService } from 'ngx-spinner';
 declare var $:any
 //declare var alertify:any
 
@@ -8,40 +11,30 @@ declare var $:any
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
-export class AppComponent implements OnInit {
+export class AppComponent{
   title = 'ECommerceAppClient';
   /**
    *
    */
-  constructor(private alertify:AlertifyService) {
-  
-    
-  }
-  ngOnInit(): void {
-    this.alertify.message("Merhaba",{
-messageType:MessageType.Success,
-delay:3,
-position:Position.TopRight
-
-    });
-  }
-  createMessage(){
-    this.alertify.message("Merhaba",{
-      messageType:MessageType.Success,
-      delay:5,
-
-    });
-  }
-  dissMissMessage(){
-    this.alertify.dismiss()
-
-  }
+/**
+ *
+ */
+constructor(private toastrService: CustomToastrService,private spinner: NgxSpinnerService ) {
 
 
 
 }
+  
+message(){
+  this.toastrService.message("Toastr Service çalışıyor","Başarılı",{messageType:ToastrMessasgeType.Success,position:ToastrPosition.BottomFullWidht});
+
+}
+
+
+}
+/*
 $(document).ready(()=>{
   alert("Angular JS ile yazılan projeye HOŞGELDİN")
   //alertify.alert('Ready!')
 
-})
+})*/

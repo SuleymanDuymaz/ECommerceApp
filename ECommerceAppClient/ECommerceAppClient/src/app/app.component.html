@@ -50,12 +50,12 @@
             <li>
               <a routerLink="admin" class="btn btn-outline-success" type="submit">Yönetici Paneli</a>
             </li>
+
             <li>
-              <button (click)="createMessage()">Message Create</button>
+              <button (click)="message()">Message User</button>
             </li>
-            <li>
-              <button (click)="dissMissMessage()">Message DissMiss</button>
-            </li>
+        
+         
           </ul>
           <form class="d-flex" role="search">
             <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
@@ -78,3 +78,4 @@
   <div class="col-md-2"></div>
 </div>
 
+<ngx-spinner type="ball-scale-multiple"></ngx-spinner>
