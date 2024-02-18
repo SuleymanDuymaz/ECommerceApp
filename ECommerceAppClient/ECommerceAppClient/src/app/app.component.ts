@@ -21,7 +21,7 @@ export class AppComponent{
  */
 constructor(private toastrService: CustomToastrService,private spinner: NgxSpinnerService ) {
 
-
+  
 
 }
   
