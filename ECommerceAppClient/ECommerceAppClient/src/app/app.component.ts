@@ -26,6 +26,7 @@ constructor(private toastrService: CustomToastrService,private spinner: NgxSpinn
 }
   
 message(){
+  
   this.toastrService.message("Toastr Service çalışıyor","Başarılı",{messageType:ToastrMessasgeType.Success,position:ToastrPosition.BottomFullWidht});
 
 }

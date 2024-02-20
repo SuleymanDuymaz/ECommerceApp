@@ -18,7 +18,7 @@ this.spinner.show(spinerNameType)
 setTimeout(() => {
   /** spinner ends after 5 seconds */
   this.spinner.hide(spinerNameType);
-}, 5000);
+}, 2000);
 }
 hideSpinner(spinerNameType:SpinnerType){
 this.spinner.hide(spinerNameType)
