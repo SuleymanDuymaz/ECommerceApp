@@ -1,6 +1,7 @@
 using ECommerceAppAPI.Persistence;
 var builder = WebApplication.CreateBuilder(args);
-
+builder.Services.AddCors(options=>options.AddDefaultPolicy
+(policy=>policy.WithOrigins("http://localhost:4200", "http://localhost:4200").AllowAnyHeader().AllowAnyMethod()));
 
 builder.Services.AddPersistenceServices();
 builder.Services.AddControllers();
@@ -10,7 +11,7 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-
+app.UseCors();
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
