@@ -7,12 +7,22 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": [
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ECommerceAppAPI.API.Controllers.ProductController",
+    "Method": "Post",
+    "RelativePath": "api/Product",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
       {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
+        "Name": "model",
+        "Type": "ECommerceAppAPI.Application.ViewModels.Products.CreateProductViewModel",
+        "IsRequired": true
       }
-    ]
+    ],
+    "ReturnTypes": []
   }
 ]

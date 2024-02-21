@@ -1,6 +1,9 @@
 ﻿using ECommerceAppAPI.Application.Repositories.Products;
+using ECommerceAppAPI.Application.ViewModels.Products;
+using ECommerceAppAPI.Domain.Entities;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.Net;
 
 namespace ECommerceAppAPI.API.Controllers
 {
@@ -18,19 +21,42 @@ namespace ECommerceAppAPI.API.Controllers
             _productWriteRepository = productWriteRepository;
         }
         [HttpGet]
-        public async Task Get()
+        public async Task<IActionResult> Get()
         {
-            //await _productWriteRepository.AddRangeAsync(new()
-            //{
-            //    new(){Id=Guid.NewGuid(),Name="Product 1",Price=100,Stock=10},
-            //    new(){Id=Guid.NewGuid(),Name="Product 2",Price=200,Stock=20},
-            //    new(){Id=Guid.NewGuid(),Name="Product 3",Price=300,Stock=30},
-            //});
-            //await _productWriteRepository.SaveAsync();
+           return Ok(_productReadRepository.GetAll());
+        }
+        [HttpPost]
+        public async Task<IActionResult> Post(CreateProductViewModel model)
+        {
+            if (ModelState.IsValid)
+            {
+                await _productWriteRepository.AddAsync(new()
+                {
+                    Name = model.Name,
+                    Price = model.Price,
+                    Stock = model.Stock,
+                });
+                await _productWriteRepository.SaveAsync();
+                return StatusCode((int)HttpStatusCode.Created);
+            }
+            return StatusCode((int)HttpStatusCode.BadRequest);
 
-            var data = await _productReadRepository.GetByIdAsync("5925da87-450b-4d8c-b230-df6d9262ad2f", true);
-            data.Name = "Naber";
-            await _productWriteRepository.SaveAsync();
+        }
+
+        public async Task<IActionResult> Put(UpdateProductViewModel model)
+        {
+            Product product = await _productReadRepository.GetByIdAsync(model.Id);
+            if (ModelState.IsValid)
+            {
+                product.Price = model.Price;
+                product.Stock = model.Stock;
+                product.Name = model.Name;
+                await _productWriteRepository.SaveAsync();
+            }
+
+         
+
+            return Ok();
         }
 
     }
