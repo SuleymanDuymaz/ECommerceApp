@@ -25,11 +25,11 @@ namespace ECommerceAppAPI.API.Controllers
         {
            return Ok(_productReadRepository.GetAll(false));
         }
-        [HttpGet]
-        public async Task<IActionResult> Get(string id)
-        {
-            return Ok(_productReadRepository.GetByIdAsync(id,false));
-        }
+        //[HttpGet]error
+        //public async Task<IActionResult> Get(string id)
+        //{
+        //    return Ok(_productReadRepository.GetByIdAsync(id,false));
+        //}
         [HttpPost]
         public async Task<IActionResult> Post(CreateProductViewModel model)
         {
