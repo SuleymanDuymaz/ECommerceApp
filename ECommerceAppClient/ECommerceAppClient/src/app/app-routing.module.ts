@@ -14,9 +14,9 @@ const routes: Routes = [
     (module=>module.OrdersModule)},
     {path:"",component:DashboardComponent},
   ]},
-  {path:"",component:HomeComponent},
-  {path:"basket",loadChildren:()=>import("./ui/components/baskets/baskets.module").then(module=>module.BasketsModule)},
-  {path:"products",loadChildren:()=>import("./ui/components/products/products.module").then(module=>module.ProductsModule)},
+  { path: "", component: HomeComponent },
+  { path: "basket", loadChildren: () => import("./ui/components/baskets/baskets.module").then(module => module.BasketsModule) },
+  { path: "products", loadChildren: () => import("./ui/components/products/products.module").then(module => module.ProductsModule) },
 ];
 
 @NgModule({

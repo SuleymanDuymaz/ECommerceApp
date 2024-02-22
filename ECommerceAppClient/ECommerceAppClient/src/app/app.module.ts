@@ -9,6 +9,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { provideAnimationsAsync } from '@angular/platform-browser/animations/async';
 import { ToastrModule } from 'ngx-toastr';
 import { NgxSpinnerModule } from "ngx-spinner";
+import { HttpClient, HttpClientModule } from '@angular/common/http';
 
 
 @NgModule({
@@ -26,6 +27,7 @@ import { NgxSpinnerModule } from "ngx-spinner";
     AppRoutingModule,
     NgxSpinnerModule ,
     AdminModule,UiModule,
+    HttpClientModule
     
   ],
   providers: [
