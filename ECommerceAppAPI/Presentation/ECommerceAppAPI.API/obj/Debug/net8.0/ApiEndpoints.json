@@ -24,5 +24,21 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ECommerceAppAPI.API.Controllers.ProductController",
+    "Method": "Put",
+    "RelativePath": "api/Product",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "ECommerceAppAPI.Application.ViewModels.Products.UpdateProductViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

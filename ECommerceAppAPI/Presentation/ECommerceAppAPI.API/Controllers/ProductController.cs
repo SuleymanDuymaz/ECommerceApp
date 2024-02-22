@@ -23,7 +23,12 @@ namespace ECommerceAppAPI.API.Controllers
         [HttpGet]
         public async Task<IActionResult> Get()
         {
-           return Ok(_productReadRepository.GetAll());
+           return Ok(_productReadRepository.GetAll(false));
+        }
+        [HttpGet]
+        public async Task<IActionResult> Get(string id)
+        {
+            return Ok(_productReadRepository.GetByIdAsync(id,false));
         }
         [HttpPost]
         public async Task<IActionResult> Post(CreateProductViewModel model)
@@ -42,7 +47,7 @@ namespace ECommerceAppAPI.API.Controllers
             return StatusCode((int)HttpStatusCode.BadRequest);
 
         }
-
+        [HttpPut]
         public async Task<IActionResult> Put(UpdateProductViewModel model)
         {
             Product product = await _productReadRepository.GetByIdAsync(model.Id);
@@ -57,6 +62,18 @@ namespace ECommerceAppAPI.API.Controllers
          
 
             return Ok();
+        }
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> Delete(string id)
+        {
+            var result=await _productWriteRepository.RemoveAsync(id);
+            if (result == true)
+            {
+                await _productWriteRepository.SaveAsync();
+                return Ok();
+            }
+            return BadRequest();
+
         }
 
     }
