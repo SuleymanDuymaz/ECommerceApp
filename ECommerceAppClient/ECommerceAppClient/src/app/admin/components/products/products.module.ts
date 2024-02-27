@@ -2,18 +2,25 @@ import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { ProductsComponent } from './products.component';
 import { RouterModule } from '@angular/router';
-
-
+import { CreateComponent } from './create/create.component';
+import { ListComponent } from './list/list.component';
+import {MatSidenavModule} from '@angular/material/sidenav';
+import {MatSelectModule} from '@angular/material/select';
+import {MatInputModule} from '@angular/material/input';
+import {MatFormFieldModule} from '@angular/material/form-field';
 
 @NgModule({
   declarations: [
-    ProductsComponent
+    ProductsComponent,
+    CreateComponent,
+    ListComponent
   ],
   imports: [
     CommonModule,
     RouterModule.forChild([
       {path:"",component:ProductsComponent}
-    ])
+    ]),
+    MatSidenavModule,MatSelectModule,MatInputModule,MatFormFieldModule
   ]
 })
 export class ProductsModule { }

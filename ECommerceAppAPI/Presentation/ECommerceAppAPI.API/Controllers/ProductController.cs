@@ -22,7 +22,7 @@ namespace ECommerceAppAPI.API.Controllers
         }
         [HttpGet]
         public async Task<IActionResult> Get()
-        {
+            {
            return Ok(_productReadRepository.GetAll(false));
         }
         //[HttpGet]error

@@ -21,9 +21,7 @@ export class AppComponent{
  *
  */
 constructor(private toastrService: CustomToastrService,private spinner: NgxSpinnerService,private httpClientService :HttpClientService ) {
-this.httpClientService.get({
-  controller:"products"
-}).subscribe(data=>console.log(data));
+
   
 this.httpClientService.get({
 baseUrl:"https://jsonplaceholder.typicode.com",
