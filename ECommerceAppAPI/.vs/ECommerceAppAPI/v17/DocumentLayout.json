@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FAE4512-BCAD-4A81-86C5-7FD63DB2D9B3}|Presentation\\ECommerceAppAPI.API\\ECommerceAppAPI.API.csproj|c:\\users\\sduym\\source\\repos\\ecommerceapp\\ecommerceapp\\ecommerceappapi\\presentation\\ecommerceappapi.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FAE4512-BCAD-4A81-86C5-7FD63DB2D9B3}|Presentation\\ECommerceAppAPI.API\\ECommerceAppAPI.API.csproj|solutionrelative:presentation\\ecommerceappapi.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,6 +39,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Presentation\\ECommerceAppAPI.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Presentation\\ECommerceAppAPI.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Presentation\\ECommerceAppAPI.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Presentation\\ECommerceAppAPI.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-03T10:05:27.913Z",
+              "EditorCaption": ""
             }
           ]
         },

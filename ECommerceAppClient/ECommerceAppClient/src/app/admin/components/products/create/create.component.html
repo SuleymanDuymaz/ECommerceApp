@@ -1,7 +1,8 @@
 <mat-form-field>
-    <mat-label class="product-create">Input</mat-label>
-    <input matInput>
+    <mat-label class="product-create">Product Name</mat-label>
+    <input matInput #txtInputName>
   </mat-form-field>
+<!--
   <mat-form-field>
     <mat-label>Select</mat-label>
     <mat-select>
@@ -9,8 +10,16 @@
       <mat-option value="two">Second option</mat-option>
     </mat-select>
   </mat-form-field>
+-->
+<mat-form-field>
+  <mat-label class="product-create">Product Stock</mat-label>
+  <input matInput #txtInputStock>
+</mat-form-field>
+
   <mat-form-field>
-    <mat-label>Textarea</mat-label>
-    <textarea matInput></textarea>
+    <mat-label>Product Price</mat-label>
+    <input matInput #txtInputPrice>
   </mat-form-field>
+
+  <button mat-button color="primary" (click)="create(txtInputName,txtInputStock,txtInputPrice)">Create Product</button>
   
