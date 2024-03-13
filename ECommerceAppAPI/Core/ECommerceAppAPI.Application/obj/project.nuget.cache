@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "LHYb+IkFJpyaEZkHdLHIDhqGyElOhI/4c5P4VPRamf/l9XU2BVaPBHW6ScEQZ2xb1FiDU5etAF/GspXaS+CiwQ==",
+  "dgSpecHash": "fpCmmWp6jbbMK35cOS8ErbptVEXqfDdoR9CTyBf8WlmAfrXWs4Uj1EPeGTutfl2xjtOpm47NFuCVUHCuCmUSPQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Application\\ECommerceAppAPI.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\sduym\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\sduym\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\sduym\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.1\\microsoft.entityframeworkcore.8.0.1.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.1\\microsoft.entityframeworkcore.abstractions.8.0.1.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.1\\microsoft.entityframeworkcore.analyzers.8.0.1.nupkg.sha512",

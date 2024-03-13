@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "33C3gYWBHJgRZTAAtkXbb+eGnNJ1B/jI2c081c8VYwY1wkAw4AK6JKV+o3LnEetf5sBiNNg0meM7XK3cXBGOsQ==",
+  "dgSpecHash": "6Nn5rfh+u2KtLCESwKUnR2i0OVqQtv5/VeaREuCdC6BgeY/G6fBt3WbD3hNn3JkPk8paOtd4Fnmq2zQslju0RQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Presentation\\ECommerceAppAPI.API\\ECommerceAppAPI.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sduym\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
+    "C:\\Users\\sduym\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\sduym\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\sduym\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
