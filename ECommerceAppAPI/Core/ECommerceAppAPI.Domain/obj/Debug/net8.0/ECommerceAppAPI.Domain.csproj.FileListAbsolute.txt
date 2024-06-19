@@ -21,3 +21,4 @@ C:\Users\sduym\source\repos\ECommerceApp\ECommerceApp\ECommerceAppAPI\Core\EComm
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceApp\ECommerceAppAPI\Core\ECommerceAppAPI.Domain\obj\Debug\net8.0\refint\ECommerceAppAPI.Domain.dll
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceApp\ECommerceAppAPI\Core\ECommerceAppAPI.Domain\obj\Debug\net8.0\ECommerceAppAPI.Domain.pdb
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceApp\ECommerceAppAPI\Core\ECommerceAppAPI.Domain\obj\Debug\net8.0\ref\ECommerceAppAPI.Domain.dll
+C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Core\ECommerceAppAPI.Domain\obj\Debug\net8.0\ECommerceAppAPI.Domain.sourcelink.json

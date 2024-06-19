@@ -33,3 +33,4 @@ C:\Users\sduym\source\repos\ECommerceApp\ECommerceApp\ECommerceAppAPI\Infrastruc
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceApp\ECommerceAppAPI\Infrastructure\ECommerceAppAPI.Infrastructure\obj\Debug\net8.0\refint\ECommerceAppAPI.Infrastructure.dll
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceApp\ECommerceAppAPI\Infrastructure\ECommerceAppAPI.Infrastructure\obj\Debug\net8.0\ECommerceAppAPI.Infrastructure.pdb
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceApp\ECommerceAppAPI\Infrastructure\ECommerceAppAPI.Infrastructure\obj\Debug\net8.0\ref\ECommerceAppAPI.Infrastructure.dll
+C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Infrastructure\ECommerceAppAPI.Infrastructure\obj\Debug\net8.0\ECommerceAppAPI.Infrastructure.sourcelink.json

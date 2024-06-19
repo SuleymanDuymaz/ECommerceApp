@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4t6XDm/U6V7+a04yIuAVwj7lNhBmtlCnjWmDypd1TheT07razcfepQ7EEH417EmNmXeSF79lHJeJcdMDeM4i8g==",
+  "dgSpecHash": "AllLIZi2wq4bzFYZtdMP2qDmQtadvrTIz2T+PrsR/QIct/azCJxQGFfRixL8JhbLBkYjXgpn702kDskjPSurow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Persistence\\ECommerceAppAPI.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Persistence\\ECommerceAppAPI.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sduym\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

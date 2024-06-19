@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Presentation\\ECommerceAppAPI.API\\ECommerceAppAPI.API.csproj": {}
+    "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Presentation\\ECommerceAppAPI.API\\ECommerceAppAPI.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Application\\ECommerceAppAPI.Application.csproj": {
+    "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Application\\ECommerceAppAPI.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Application\\ECommerceAppAPI.Application.csproj",
+        "projectUniqueName": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Application\\ECommerceAppAPI.Application.csproj",
         "projectName": "ECommerceAppAPI.Application",
-        "projectPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Application\\ECommerceAppAPI.Application.csproj",
+        "projectPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Application\\ECommerceAppAPI.Application.csproj",
         "packagesPath": "C:\\Users\\sduym\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Application\\obj\\",
+        "outputPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sduym\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Domain\\ECommerceAppAPI.Domain.csproj": {
-                "projectPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Domain\\ECommerceAppAPI.Domain.csproj"
+              "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Domain\\ECommerceAppAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Domain\\ECommerceAppAPI.Domain.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Domain\\ECommerceAppAPI.Domain.csproj": {
+    "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Domain\\ECommerceAppAPI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Domain\\ECommerceAppAPI.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Domain\\ECommerceAppAPI.Domain.csproj",
         "projectName": "ECommerceAppAPI.Domain",
-        "projectPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Domain\\ECommerceAppAPI.Domain.csproj",
+        "projectPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Domain\\ECommerceAppAPI.Domain.csproj",
         "packagesPath": "C:\\Users\\sduym\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Domain\\obj\\",
+        "outputPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sduym\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -150,14 +150,14 @@
         }
       }
     },
-    "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Infrastructure\\ECommerceAppAPI.Infrastructure.csproj": {
+    "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Infrastructure\\ECommerceAppAPI.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Infrastructure\\ECommerceAppAPI.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Infrastructure\\ECommerceAppAPI.Infrastructure.csproj",
         "projectName": "ECommerceAppAPI.Infrastructure",
-        "projectPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Infrastructure\\ECommerceAppAPI.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Infrastructure\\ECommerceAppAPI.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\sduym\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sduym\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -174,8 +174,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Application\\ECommerceAppAPI.Application.csproj": {
-                "projectPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Application\\ECommerceAppAPI.Application.csproj"
+              "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Application\\ECommerceAppAPI.Application.csproj": {
+                "projectPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Application\\ECommerceAppAPI.Application.csproj"
               }
             }
           }
@@ -214,14 +214,14 @@
         }
       }
     },
-    "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Persistence\\ECommerceAppAPI.Persistence.csproj": {
+    "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Persistence\\ECommerceAppAPI.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Persistence\\ECommerceAppAPI.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Persistence\\ECommerceAppAPI.Persistence.csproj",
         "projectName": "ECommerceAppAPI.Persistence",
-        "projectPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Persistence\\ECommerceAppAPI.Persistence.csproj",
+        "projectPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Persistence\\ECommerceAppAPI.Persistence.csproj",
         "packagesPath": "C:\\Users\\sduym\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Persistence\\obj\\",
+        "outputPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sduym\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -238,8 +238,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Application\\ECommerceAppAPI.Application.csproj": {
-                "projectPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Application\\ECommerceAppAPI.Application.csproj"
+              "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Application\\ECommerceAppAPI.Application.csproj": {
+                "projectPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Application\\ECommerceAppAPI.Application.csproj"
               }
             }
           }
@@ -306,14 +306,14 @@
         }
       }
     },
-    "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Presentation\\ECommerceAppAPI.API\\ECommerceAppAPI.API.csproj": {
+    "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Presentation\\ECommerceAppAPI.API\\ECommerceAppAPI.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Presentation\\ECommerceAppAPI.API\\ECommerceAppAPI.API.csproj",
+        "projectUniqueName": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Presentation\\ECommerceAppAPI.API\\ECommerceAppAPI.API.csproj",
         "projectName": "ECommerceAppAPI.API",
-        "projectPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Presentation\\ECommerceAppAPI.API\\ECommerceAppAPI.API.csproj",
+        "projectPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Presentation\\ECommerceAppAPI.API\\ECommerceAppAPI.API.csproj",
         "packagesPath": "C:\\Users\\sduym\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Presentation\\ECommerceAppAPI.API\\obj\\",
+        "outputPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Presentation\\ECommerceAppAPI.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sduym\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -330,14 +330,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Application\\ECommerceAppAPI.Application.csproj": {
-                "projectPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Application\\ECommerceAppAPI.Application.csproj"
+              "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Application\\ECommerceAppAPI.Application.csproj": {
+                "projectPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Core\\ECommerceAppAPI.Application\\ECommerceAppAPI.Application.csproj"
               },
-              "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Infrastructure\\ECommerceAppAPI.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Infrastructure\\ECommerceAppAPI.Infrastructure.csproj"
+              "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Infrastructure\\ECommerceAppAPI.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Infrastructure\\ECommerceAppAPI.Infrastructure.csproj"
               },
-              "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Persistence\\ECommerceAppAPI.Persistence.csproj": {
-                "projectPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Persistence\\ECommerceAppAPI.Persistence.csproj"
+              "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Persistence\\ECommerceAppAPI.Persistence.csproj": {
+                "projectPath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Persistence\\ECommerceAppAPI.Persistence.csproj"
               }
             }
           }

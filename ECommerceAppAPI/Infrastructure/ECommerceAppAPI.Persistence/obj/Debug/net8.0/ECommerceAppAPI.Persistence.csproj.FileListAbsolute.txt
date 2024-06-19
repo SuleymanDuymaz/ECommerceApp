@@ -37,3 +37,4 @@ C:\Users\sduym\source\repos\ECommerceApp\ECommerceApp\ECommerceAppAPI\Infrastruc
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceApp\ECommerceAppAPI\Infrastructure\ECommerceAppAPI.Persistence\obj\Debug\net8.0\ECommerceAppAPI.Persistence.pdb
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceApp\ECommerceAppAPI\Infrastructure\ECommerceAppAPI.Persistence\obj\Debug\net8.0\ECommerceAppAPI.Persistence.genruntimeconfig.cache
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceApp\ECommerceAppAPI\Infrastructure\ECommerceAppAPI.Persistence\obj\Debug\net8.0\ref\ECommerceAppAPI.Persistence.dll
+C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Infrastructure\ECommerceAppAPI.Persistence\obj\Debug\net8.0\ECommerceAppAPI.Persistence.sourcelink.json

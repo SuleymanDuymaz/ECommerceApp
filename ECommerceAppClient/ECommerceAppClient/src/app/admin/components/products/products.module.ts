@@ -9,7 +9,8 @@ import {MatSelectModule} from '@angular/material/select';
 import {MatInputModule} from '@angular/material/input';
 import {MatFormFieldModule} from '@angular/material/form-field';
 import {MatButtonModule} from '@angular/material/button';
-
+import {MatTableModule} from '@angular/material/table';
+import {MatPaginatorModule} from '@angular/material/paginator';
 @NgModule({
   declarations: [
     ProductsComponent,
@@ -21,7 +22,7 @@ import {MatButtonModule} from '@angular/material/button';
     RouterModule.forChild([
       {path:"",component:ProductsComponent}
     ]),
-    MatSidenavModule,MatSelectModule,MatInputModule,MatFormFieldModule,MatButtonModule
+    MatSidenavModule,MatSelectModule,MatInputModule,MatFormFieldModule,MatButtonModule,MatTableModule,MatPaginatorModule
   ]
 })
 export class ProductsModule { }

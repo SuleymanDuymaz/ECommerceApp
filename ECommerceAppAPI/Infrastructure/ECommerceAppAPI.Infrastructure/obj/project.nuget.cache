@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "We6l5X0B0JMds1ecAdOo7TbC3bd6xU7eAI3geP0TGgOVUvXFdXky4qRrui4JZE+CaQhm9DcbmHu6ATx2RiFeBw==",
+  "dgSpecHash": "PfH+9TL9c7CHlkyYZeLt5iugwXnbksE4K+5KTVpP7PfikW7jWqKamrRVe+3L6lG2zwo86b4Ta4btmYYXT9nUNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Infrastructure\\ECommerceAppAPI.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\sduym\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Infrastructure\\ECommerceAppAPI.Infrastructure\\ECommerceAppAPI.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sduym\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
     "C:\\Users\\sduym\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",

@@ -288,3 +288,9 @@ C:\Users\sduym\source\repos\ECommerceApp\ECommerceApp\ECommerceAppAPI\Presentati
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceApp\ECommerceAppAPI\Presentation\ECommerceAppAPI.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceApp\ECommerceAppAPI\Presentation\ECommerceAppAPI.API\bin\Debug\net8.0\ECommerceAppAPI.Infrastructure.dll
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceApp\ECommerceAppAPI\Presentation\ECommerceAppAPI.API\bin\Debug\net8.0\ECommerceAppAPI.Infrastructure.pdb
+C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Presentation\ECommerceAppAPI.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Presentation\ECommerceAppAPI.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Presentation\ECommerceAppAPI.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Presentation\ECommerceAppAPI.API\bin\Debug\net8.0\ECommerceAppAPI.Infrastructure.dll
+C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Presentation\ECommerceAppAPI.API\bin\Debug\net8.0\ECommerceAppAPI.Infrastructure.pdb
+C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Presentation\ECommerceAppAPI.API\obj\Debug\net8.0\ECommerceAppAPI.API.sourcelink.json
