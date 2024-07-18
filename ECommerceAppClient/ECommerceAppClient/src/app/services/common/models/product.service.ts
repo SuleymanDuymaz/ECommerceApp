@@ -33,17 +33,17 @@ export class  ProductService {
     });
 } 
 
-async read(page:number=0,size:number=5, successCalBack?:()=> void,errorCallBack?:(errorMessage:string)=>void):Promise<List_Product[]>{
-  const promiseData:Promise<List_Product[]>= this.httpClientService.get<List_Product[]>({
-    controller:"Product"
+async read(page: number = 0, size: number = 5, successCallBack?: () => void, errorCallBack?: (errorMessage: string) => void): Promise<{ totalProductCount: number; products: List_Product[] }> {
+  const promiseData: Promise<{ totalProductCount: number; products: List_Product[] }> = this.httpClientService.get<{ totalProductCount: number; products: List_Product[] }>({
+    controller: "Product",
+    queryString: `page=${page}&size=${size}`
   }).toPromise();
 
+  promiseData.then(d => successCallBack())
+    .catch((errorResponse: HttpErrorResponse) => errorCallBack(errorResponse.message))
 
-  promiseData.then(d=>successCalBack())
-  .catch((errorResponse:HttpErrorResponse)=>errorCallBack(errorResponse.message))
-  return await promiseData
+  return await promiseData;
 }
-
 
 
 

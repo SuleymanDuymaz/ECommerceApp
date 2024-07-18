@@ -24,6 +24,7 @@ namespace ECommerceAppAPI.API.Controllers
         [HttpGet]
         public async Task<IActionResult> Get([FromQuery] Pagination pagination)
             {
+            var totalCount=_productReadRepository.GetAll(false).Count();
 
             var products=_productReadRepository.GetAll(false).Skip(pagination.Page*pagination.Size)
                 .Take(pagination.Size).Select(p => new
@@ -34,7 +35,11 @@ namespace ECommerceAppAPI.API.Controllers
                     p.Price,
                     p.CreatedDate
                 }).ToList();
-            return Ok(products);
+            return Ok(new
+            {   
+                totalCount,
+                products
+            });
             //return Ok(_productReadRepository.GetAll(false).Select(p=>new
             //{
             //    p.Id,
