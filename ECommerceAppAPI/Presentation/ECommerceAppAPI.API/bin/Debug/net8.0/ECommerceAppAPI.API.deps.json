@@ -1124,12 +1124,18 @@
           "System.Linq.Expressions": "4.3.0"
         },
         "runtime": {
-          "ECommerceAppAPI.Application.dll": {}
+          "ECommerceAppAPI.Application.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "ECommerceAppAPI.Domain/1.0.0": {
         "runtime": {
-          "ECommerceAppAPI.Domain.dll": {}
+          "ECommerceAppAPI.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "ECommerceAppAPI.Infrastructure/1.0.0": {
@@ -1137,7 +1143,10 @@
           "ECommerceAppAPI.Application": "1.0.0"
         },
         "runtime": {
-          "ECommerceAppAPI.Infrastructure.dll": {}
+          "ECommerceAppAPI.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "ECommerceAppAPI.Persistence/1.0.0": {
@@ -1150,7 +1159,10 @@
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0"
         },
         "runtime": {
-          "ECommerceAppAPI.Persistence.dll": {}
+          "ECommerceAppAPI.Persistence.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

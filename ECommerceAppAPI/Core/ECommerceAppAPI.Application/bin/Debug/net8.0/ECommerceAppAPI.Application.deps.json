@@ -282,7 +282,10 @@
       },
       "ECommerceAppAPI.Domain/1.0.0": {
         "runtime": {
-          "ECommerceAppAPI.Domain.dll": {}
+          "ECommerceAppAPI.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

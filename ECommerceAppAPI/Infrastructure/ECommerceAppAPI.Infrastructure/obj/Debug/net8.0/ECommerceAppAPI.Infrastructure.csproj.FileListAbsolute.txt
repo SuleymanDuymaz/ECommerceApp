@@ -10,7 +10,6 @@ C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Infrastructure\ECommerc
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Infrastructure\ECommerceAppAPI.Infrastructure\obj\Debug\net8.0\ECommerceAppAPI.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Infrastructure\ECommerceAppAPI.Infrastructure\obj\Debug\net8.0\ECommerceAppAPI.Infrastructure.AssemblyInfo.cs
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Infrastructure\ECommerceAppAPI.Infrastructure\obj\Debug\net8.0\ECommerceAppAPI.Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Infrastructure\ECommerceAppAPI.Infrastructure\obj\Debug\net8.0\ECommerceAppAPI.Infrastructure.csproj.CopyComplete
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Infrastructure\ECommerceAppAPI.Infrastructure\obj\Debug\net8.0\ECommerceAppAPI.Infrastructure.dll
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Infrastructure\ECommerceAppAPI.Infrastructure\obj\Debug\net8.0\refint\ECommerceAppAPI.Infrastructure.dll
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Infrastructure\ECommerceAppAPI.Infrastructure\obj\Debug\net8.0\ECommerceAppAPI.Infrastructure.pdb
@@ -34,3 +33,4 @@ C:\Users\sduym\source\repos\ECommerceApp\ECommerceApp\ECommerceAppAPI\Infrastruc
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceApp\ECommerceAppAPI\Infrastructure\ECommerceAppAPI.Infrastructure\obj\Debug\net8.0\ECommerceAppAPI.Infrastructure.pdb
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceApp\ECommerceAppAPI\Infrastructure\ECommerceAppAPI.Infrastructure\obj\Debug\net8.0\ref\ECommerceAppAPI.Infrastructure.dll
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Infrastructure\ECommerceAppAPI.Infrastructure\obj\Debug\net8.0\ECommerceAppAPI.Infrastructure.sourcelink.json
+C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Infrastructure\ECommerceAppAPI.Infrastructure\obj\Debug\net8.0\ECommerc.EDB05D93.Up2Date

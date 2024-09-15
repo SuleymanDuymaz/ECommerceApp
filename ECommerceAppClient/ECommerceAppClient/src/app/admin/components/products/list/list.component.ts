@@ -7,6 +7,9 @@ import { NgxSpinner, NgxSpinnerService } from 'ngx-spinner';
 import { AlertifyService, MessageType, Position } from '../../../../services/admin/alertify.service';
 import { MatPaginator } from '@angular/material/paginator';
 
+declare var $: any;
+
+
 @Component({
   selector: 'app-list',
   templateUrl: './list.component.html',
@@ -17,6 +20,10 @@ export class ListComponent extends BaseComponent implements OnInit,AfterViewInit
 constructor(private productService:ProductService,spinner:NgxSpinnerService,private alertifyService:AlertifyService) {
   super(spinner);
 }
+displayedColumns: string[] = ['name', 'stock', 'price', 'createdDate','delete','update'];
+dataSource: MatTableDataSource<List_Product> = null;
+
+@ViewChild(MatPaginator) paginator: MatPaginator;
 
 async getProducts() {
   this.showSpinner(SpinnerType.BallScaleMultiple);
@@ -28,6 +35,17 @@ async getProducts() {
   this.dataSource = new MatTableDataSource<List_Product>(allProducts.products);
   this.paginator.length = allProducts.totalProductCount;
 }
+async update(id){
+  alert(id);
+  
+}
+async delete(id,event){
+  const img:HTMLImageElement=event.srcElement;
+  $(img.parentElement.parentElement).fadeOut(2000);
+  //console.warn(img.parentElement.parentElement);
+//  $(img.parentElement.parentElement).fadeOut(200);
+  //alert(id);
+}
 async pageChanged() {
   await this.getProducts();
 }
@@ -35,9 +53,9 @@ async pageChanged() {
     //debugger;
   
   }
-  displayedColumns: string[] = ['name', 'stock', 'price', 'createdDate','delete'];
-  dataSource: MatTableDataSource<List_Product> = null;
-@ViewChild(MatPaginator) paginator: MatPaginator;
+
+
+
 
 async ngOnInit() {
   await this.getProducts();

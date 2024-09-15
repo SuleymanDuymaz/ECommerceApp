@@ -10,7 +10,6 @@ C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Infrastructure\ECommerc
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Infrastructure\ECommerceAppAPI.Persistence\obj\Debug\net8.0\ECommerceAppAPI.Persistence.AssemblyInfoInputs.cache
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Infrastructure\ECommerceAppAPI.Persistence\obj\Debug\net8.0\ECommerceAppAPI.Persistence.AssemblyInfo.cs
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Infrastructure\ECommerceAppAPI.Persistence\obj\Debug\net8.0\ECommerceAppAPI.Persistence.csproj.CoreCompileInputs.cache
-C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Infrastructure\ECommerceAppAPI.Persistence\obj\Debug\net8.0\ECommerceAppAPI.Persistence.csproj.CopyComplete
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Infrastructure\ECommerceAppAPI.Persistence\obj\Debug\net8.0\ECommerceAppAPI.Persistence.dll
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Infrastructure\ECommerceAppAPI.Persistence\obj\Debug\net8.0\refint\ECommerceAppAPI.Persistence.dll
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Infrastructure\ECommerceAppAPI.Persistence\obj\Debug\net8.0\ECommerceAppAPI.Persistence.pdb
@@ -38,3 +37,4 @@ C:\Users\sduym\source\repos\ECommerceApp\ECommerceApp\ECommerceAppAPI\Infrastruc
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceApp\ECommerceAppAPI\Infrastructure\ECommerceAppAPI.Persistence\obj\Debug\net8.0\ECommerceAppAPI.Persistence.genruntimeconfig.cache
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceApp\ECommerceAppAPI\Infrastructure\ECommerceAppAPI.Persistence\obj\Debug\net8.0\ref\ECommerceAppAPI.Persistence.dll
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Infrastructure\ECommerceAppAPI.Persistence\obj\Debug\net8.0\ECommerceAppAPI.Persistence.sourcelink.json
+C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Infrastructure\ECommerceAppAPI.Persistence\obj\Debug\net8.0\ECommerc.D7887A52.Up2Date

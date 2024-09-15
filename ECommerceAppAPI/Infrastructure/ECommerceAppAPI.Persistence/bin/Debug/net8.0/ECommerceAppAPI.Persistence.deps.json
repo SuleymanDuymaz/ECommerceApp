@@ -1084,12 +1084,18 @@
           "System.Linq.Expressions": "4.3.0"
         },
         "runtime": {
-          "ECommerceAppAPI.Application.dll": {}
+          "ECommerceAppAPI.Application.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "ECommerceAppAPI.Domain/1.0.0": {
         "runtime": {
-          "ECommerceAppAPI.Domain.dll": {}
+          "ECommerceAppAPI.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

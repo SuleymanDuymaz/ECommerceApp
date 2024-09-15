@@ -10,12 +10,15 @@ import { provideAnimationsAsync } from '@angular/platform-browser/animations/asy
 import { ToastrModule } from 'ngx-toastr';
 import { NgxSpinnerModule } from "ngx-spinner";
 import { HttpClient, HttpClientModule } from '@angular/common/http';
+import { DeleteDialogComponent } from './dialogs/delete-dialog/delete-dialog.component';
+
 
 
 @NgModule({
   declarations: [
     AppComponent,
-
+    DeleteDialogComponent,
+   
   ],
   imports: [
     BrowserModule,

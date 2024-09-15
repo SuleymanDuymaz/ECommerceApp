@@ -30,7 +30,6 @@ C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Presentation\ECommerceA
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Presentation\ECommerceAppAPI.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ECommerceAppAPI.API.props
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Presentation\ECommerceAppAPI.API\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Presentation\ECommerceAppAPI.API\obj\Debug\net8.0\scopedcss\bundle\ECommerceAppAPI.API.styles.css
-C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Presentation\ECommerceAppAPI.API\obj\Debug\net8.0\ECommerceAppAPI.API.csproj.CopyComplete
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Presentation\ECommerceAppAPI.API\obj\Debug\net8.0\ECommerceAppAPI.API.dll
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Presentation\ECommerceAppAPI.API\obj\Debug\net8.0\refint\ECommerceAppAPI.API.dll
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Presentation\ECommerceAppAPI.API\obj\Debug\net8.0\ECommerceAppAPI.API.pdb
@@ -294,3 +293,4 @@ C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Presentation\ECommerceA
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Presentation\ECommerceAppAPI.API\bin\Debug\net8.0\ECommerceAppAPI.Infrastructure.dll
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Presentation\ECommerceAppAPI.API\bin\Debug\net8.0\ECommerceAppAPI.Infrastructure.pdb
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Presentation\ECommerceAppAPI.API\obj\Debug\net8.0\ECommerceAppAPI.API.sourcelink.json
+C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Presentation\ECommerceAppAPI.API\obj\Debug\net8.0\ECommerc.6E77E697.Up2Date
