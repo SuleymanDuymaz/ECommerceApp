@@ -23,7 +23,7 @@ namespace ECommerceAppAPI.Persistence
 
             DbContextOptionsBuilder<ECommerceAppAPIDbContext> dbContextOptionsBuilder = new();
             dbContextOptionsBuilder.UseSqlServer
-                ("Server=LEGION-PC;Database=ECommerce;Trusted_Connection=True;TrustServerCertificate=True;");
+                ("Server=(localdb)\\MSSQLLocalDB;Database=ECOMMERCE;Trusted_Connection=True;TrustServerCertificate=True;");
             return new(dbContextOptionsBuilder.Options);
         }
     }

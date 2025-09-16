@@ -22,3 +22,15 @@ C:\Users\sduym\source\repos\ECommerceApp\ECommerceApp\ECommerceAppAPI\Core\EComm
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceApp\ECommerceAppAPI\Core\ECommerceAppAPI.Domain\obj\Debug\net8.0\ECommerceAppAPI.Domain.pdb
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceApp\ECommerceAppAPI\Core\ECommerceAppAPI.Domain\obj\Debug\net8.0\ref\ECommerceAppAPI.Domain.dll
 C:\Users\sduym\source\repos\ECommerceApp\ECommerceAppAPI\Core\ECommerceAppAPI.Domain\obj\Debug\net8.0\ECommerceAppAPI.Domain.sourcelink.json
+C:\Users\Monster\source\repos\ECommerceApp\ECommerceAppAPI\Core\ECommerceAppAPI.Domain\bin\Debug\net8.0\ECommerceAppAPI.Domain.deps.json
+C:\Users\Monster\source\repos\ECommerceApp\ECommerceAppAPI\Core\ECommerceAppAPI.Domain\bin\Debug\net8.0\ECommerceAppAPI.Domain.dll
+C:\Users\Monster\source\repos\ECommerceApp\ECommerceAppAPI\Core\ECommerceAppAPI.Domain\bin\Debug\net8.0\ECommerceAppAPI.Domain.pdb
+C:\Users\Monster\source\repos\ECommerceApp\ECommerceAppAPI\Core\ECommerceAppAPI.Domain\obj\Debug\net8.0\ECommerceAppAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\source\repos\ECommerceApp\ECommerceAppAPI\Core\ECommerceAppAPI.Domain\obj\Debug\net8.0\ECommerceAppAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\ECommerceApp\ECommerceAppAPI\Core\ECommerceAppAPI.Domain\obj\Debug\net8.0\ECommerceAppAPI.Domain.AssemblyInfo.cs
+C:\Users\Monster\source\repos\ECommerceApp\ECommerceAppAPI\Core\ECommerceAppAPI.Domain\obj\Debug\net8.0\ECommerceAppAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\ECommerceApp\ECommerceAppAPI\Core\ECommerceAppAPI.Domain\obj\Debug\net8.0\ECommerceAppAPI.Domain.sourcelink.json
+C:\Users\Monster\source\repos\ECommerceApp\ECommerceAppAPI\Core\ECommerceAppAPI.Domain\obj\Debug\net8.0\ECommerceAppAPI.Domain.dll
+C:\Users\Monster\source\repos\ECommerceApp\ECommerceAppAPI\Core\ECommerceAppAPI.Domain\obj\Debug\net8.0\refint\ECommerceAppAPI.Domain.dll
+C:\Users\Monster\source\repos\ECommerceApp\ECommerceAppAPI\Core\ECommerceAppAPI.Domain\obj\Debug\net8.0\ECommerceAppAPI.Domain.pdb
+C:\Users\Monster\source\repos\ECommerceApp\ECommerceAppAPI\Core\ECommerceAppAPI.Domain\obj\Debug\net8.0\ref\ECommerceAppAPI.Domain.dll

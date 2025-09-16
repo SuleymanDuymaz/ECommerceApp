@@ -23,4 +23,8 @@
     <ProjectReference Include="..\..\Core\ECommerceAppAPI.Application\ECommerceAppAPI.Application.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+
 </Project>

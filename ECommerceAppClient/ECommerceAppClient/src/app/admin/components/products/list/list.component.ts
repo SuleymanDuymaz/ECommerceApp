@@ -27,13 +27,13 @@ dataSource: MatTableDataSource<List_Product> = null;
 
 async getProducts() {
   this.showSpinner(SpinnerType.BallScaleMultiple);
-  const allProducts: { totalProductCount: number; products: List_Product[] } = await this.productService.read(this.paginator ? this.paginator.pageIndex : 0, this.paginator ? this.paginator.pageSize : 5, () => this.hideSpinner(SpinnerType.BallScaleMultiple), errorMessage => this.alertifyService.message(errorMessage, {
+  const allProducts: { totalCount: number; products: List_Product[] } = await this.productService.read(this.paginator ? this.paginator.pageIndex : 0, this.paginator ? this.paginator.pageSize : 5, () => this.hideSpinner(SpinnerType.BallScaleMultiple), errorMessage => this.alertifyService.message(errorMessage, {
 
     messageType: MessageType.Error,
     position: Position.TopRight
   }))
   this.dataSource = new MatTableDataSource<List_Product>(allProducts.products);
-  this.paginator.length = allProducts.totalProductCount;
+  this.paginator.length = allProducts.totalCount;
 }
 async update(id){
   alert(id);

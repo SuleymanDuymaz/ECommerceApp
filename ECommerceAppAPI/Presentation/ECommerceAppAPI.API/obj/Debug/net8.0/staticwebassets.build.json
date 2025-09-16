@@ -1,11 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "mQcB1rsqDhNxCx4/NM/xmCYfmn50S1Jdus0zN4tjKvM=",
-  "Source": "ECommerceAppAPI.API",
-  "BasePath": "_content/ECommerceAppAPI.API",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
-}
+{"Version":1,"Hash":"Ol3IbP1hOzi1je4Vm4zTjF7GSuFUCxq7zBCTIiSPPzs=","Source":"ECommerceAppAPI.API","BasePath":"_content/ECommerceAppAPI.API","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}

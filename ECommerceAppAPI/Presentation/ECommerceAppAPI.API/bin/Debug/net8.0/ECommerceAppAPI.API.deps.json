@@ -1125,7 +1125,7 @@
         },
         "runtime": {
           "ECommerceAppAPI.Application.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -1133,7 +1133,7 @@
       "ECommerceAppAPI.Domain/1.0.0": {
         "runtime": {
           "ECommerceAppAPI.Domain.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -1144,7 +1144,7 @@
         },
         "runtime": {
           "ECommerceAppAPI.Infrastructure.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -1160,7 +1160,7 @@
         },
         "runtime": {
           "ECommerceAppAPI.Persistence.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }

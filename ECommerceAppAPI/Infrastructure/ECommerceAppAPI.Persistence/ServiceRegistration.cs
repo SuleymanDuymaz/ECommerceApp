@@ -2,7 +2,7 @@
 using ECommerceAppAPI.Application.Repositories.Orders;
 using ECommerceAppAPI.Application.Repositories.Products;
 using ECommerceAppAPI.Persistence.Context;
-using ECommerceAppAPI.Persistence.Repositories.Cusstomers;
+using ECommerceAppAPI.Persistence.Repositories.Cusstomers;  
 using ECommerceAppAPI.Persistence.Repositories.Orders;
 using ECommerceAppAPI.Persistence.Repositories.Products;
 using Microsoft.EntityFrameworkCore;
