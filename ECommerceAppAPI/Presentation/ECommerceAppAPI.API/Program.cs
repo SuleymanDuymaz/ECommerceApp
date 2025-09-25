@@ -1,10 +1,15 @@
+using ECommerceAppAPI.API.Exceptions;
 using ECommerceAppAPI.Application.Validators.Product;
 using ECommerceAppAPI.Infrastructure.Filters;
 using ECommerceAppAPI.Persistence;
 using FluentValidation.AspNetCore;
+
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddCors(options=>options.AddDefaultPolicy
 (policy=>policy.WithOrigins("http://localhost:4200", "http://localhost:4200").AllowAnyHeader().AllowAnyMethod()));
+
+builder.Services.AddExceptionHandler<ExceptionHandler>();
+builder.Services.AddProblemDetails();
 
 builder.Services.AddPersistenceServices();
 builder.Services.AddControllers(options=>options.Filters.Add<ValidationFilter>())
@@ -29,5 +34,11 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+app.UseExceptionHandler();
+
+//app.MapGet("/", () =>
+//{
+//    throw new Exception("Laylaylom galiba sana göre sevmeler...");
+//});
 
 app.Run();
