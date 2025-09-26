@@ -1,35 +1,21 @@
 import { Component, OnInit } from '@angular/core';
-
-import { BaseComponent, SpinnerType } from '../../../base/base.component';
-import { NgxSpinner, NgxSpinnerService } from 'ngx-spinner';
+import { NgxSpinnerService } from 'ngx-spinner';
+import { BaseComponent, SpinnerType } from 'src/app/base/base.component';
 
 @Component({
   selector: 'app-home',
   templateUrl: './home.component.html',
-  styleUrl: './home.component.css'
+  styleUrls: ['./home.component.scss']
 })
 export class HomeComponent extends BaseComponent implements OnInit {
-  /*
-  constructor(private spinner :NgxSpinnerService) {
-   //super(spinner)
-   this.spinner.show("allPage")
-   setTimeout(() => {
-    
-    this.spinner.hide("allPage");
-  }, 5000);
-  }*/
-  /**
-   *
-   */
+
   constructor(spinner: NgxSpinnerService) {
-super(spinner)
-  
+    super(spinner)
   }
+
   ngOnInit(): void {
-    this.showSpinner(SpinnerType.BallScaleMultiple)
-  }
-  message(){
-    //this.showSpinner(SpinnerType.BallScaleMultiple)
+  /*  this.showSpinner(SpinnerType.BallAtom);*/
+
   }
 
 }

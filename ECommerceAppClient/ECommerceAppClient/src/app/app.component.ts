@@ -1,48 +1,38 @@
-import { Component, OnInit } from '@angular/core';
-
+import { AfterViewInit, Component, ViewChild } from '@angular/core';
+import { Router } from '@angular/router';
 import { ToastrService } from 'ngx-toastr';
-import { CustomToastrService, ToastrMessasgeType, ToastrPosition } from './services/ui/custom-toastr.service';
-import { NgxSpinnerService } from 'ngx-spinner';
-import { HttpClientService } from './services/common/http-client.service';
-declare var $:any
-//declare var alertify:any
+import { DynamicLoadComponentDirective } from './directives/common/dynamic-load-component.directive';
+import { AuthService } from './services/common/auth.service';
+import { ComponentType, DynamicLoadComponentService } from './services/common/dynamic-load-component.service';
+import { CustomToastrService, ToastrMessageType, ToastrPosition } from './services/ui/custom-toastr.service';
+import * as bootstrap from 'bootstrap'
+
+declare var $: any
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  styleUrl: './app.component.css'
+  styleUrls: ['./app.component.scss']
 })
-export class AppComponent{
-  title = 'ECommerceAppClient';
-  /**
-   *
-   */
-/**
- *
- */
-constructor(private toastrService: CustomToastrService,private spinner: NgxSpinnerService,private httpClientService :HttpClientService ) {
+export class AppComponent {
+  @ViewChild(DynamicLoadComponentDirective, { static: true })
+  dynamicLoadComponentDirective: DynamicLoadComponentDirective;
 
-  
-this.httpClientService.get({
-baseUrl:"https://jsonplaceholder.typicode.com",
-controller:"posts"
+  constructor(public authService: AuthService, private toastrService: CustomToastrService, private router: Router, private dynamicLoadComponentService: DynamicLoadComponentService) {
+    authService.identityCheck();
+  }
 
-}).subscribe(data=>console.log(data));
-  
+  signOut() {
+    localStorage.removeItem("accessToken");
+    this.authService.identityCheck();
+    this.router.navigate([""]);
+    this.toastrService.message("Oturum kapatılmıştır!", "Oturum Kapatıldı", {
+      messageType: ToastrMessageType.Warning,
+      position: ToastrPosition.TopRight
+    });
+  }
 
+  loadComponent() {
+    this.dynamicLoadComponentService.loadComponent(ComponentType.BasketsComponent, this.dynamicLoadComponentDirective.viewContainerRef);
+  }
 }
-  
-message(){
-  
-  this.toastrService.message("Toastr Service çalışıyor","Başarılı",{messageType:ToastrMessasgeType.Success,position:ToastrPosition.BottomFullWidht});
-
-}
-
-
-}
-/*
-$(document).ready(()=>{
-  alert("Angular JS ile yazılan projeye HOŞGELDİN")
-  //alertify.alert('Ready!')
-
-})*/

@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Presentation\\ECommerceAppAPI.API\\Program.cs",
               "RelativeDocumentMoniker": "Presentation\\ECommerceAppAPI.API\\Program.cs",
-              "ToolTip": "C:\\Users\\Monster\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Presentation\\ECommerceAppAPI.API\\Program.cs*",
-              "RelativeToolTip": "Presentation\\ECommerceAppAPI.API\\Program.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAADAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Presentation\\ECommerceAppAPI.API\\Program.cs",
+              "RelativeToolTip": "Presentation\\ECommerceAppAPI.API\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwBwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T08:34:24.741Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

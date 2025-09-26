@@ -3,15 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Monster\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8FAE4512-BCAD-4A81-86C5-7FD63DB2D9B3}|Presentation\\ECommerceAppAPI.API\\ECommerceAppAPI.API.csproj|c:\\users\\monster\\source\\repos\\ecommerceapp\\ecommerceappapi\\presentation\\ecommerceappapi.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FAE4512-BCAD-4A81-86C5-7FD63DB2D9B3}|Presentation\\ECommerceAppAPI.API\\ECommerceAppAPI.API.csproj|solutionrelative:presentation\\ecommerceappapi.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ECOMMERCE/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FAE4512-BCAD-4A81-86C5-7FD63DB2D9B3}|Presentation\\ECommerceAppAPI.API\\ECommerceAppAPI.API.csproj|c:\\users\\monster\\source\\repos\\ecommerceapp\\ecommerceappapi\\presentation\\ecommerceappapi.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8FAE4512-BCAD-4A81-86C5-7FD63DB2D9B3}|Presentation\\ECommerceAppAPI.API\\ECommerceAppAPI.API.csproj|solutionrelative:presentation\\ecommerceappapi.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8FAE4512-BCAD-4A81-86C5-7FD63DB2D9B3}|Presentation\\ECommerceAppAPI.API\\ECommerceAppAPI.API.csproj|c:\\users\\monster\\source\\repos\\ecommerceapp\\ecommerceappapi\\presentation\\ecommerceappapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FAE4512-BCAD-4A81-86C5-7FD63DB2D9B3}|Presentation\\ECommerceAppAPI.API\\ECommerceAppAPI.API.csproj|solutionrelative:presentation\\ecommerceappapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,37 +22,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "dbo.Products.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ECOMMERCE/True/SqlTable/dbo.Products.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ECOMMERCE/True/SqlTable/dbo.Products.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-09-11T11:56:12.91Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Presentation\\ECommerceAppAPI.API\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Presentation\\ECommerceAppAPI.API\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Monster\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Presentation\\ECommerceAppAPI.API\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Presentation\\ECommerceAppAPI.API\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAMwCsAAABKAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Presentation\\ECommerceAppAPI.API\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\ECommerceAppAPI.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Presentation\\ECommerceAppAPI.API\\Program.cs",
+              "RelativeToolTip": "Presentation\\ECommerceAppAPI.API\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwBwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T11:35:48.777Z",
+              "WhenOpened": "2025-09-25T08:34:24.741Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Presentation\\ECommerceAppAPI.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Presentation\\ECommerceAppAPI.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Monster\\source\\repos\\ECommerceApp\\ECommerceAppAPI\\Presentation\\ECommerceAppAPI.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Presentation\\ECommerceAppAPI.API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAABAAAAAAAAAAAAArwBoAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-11T11:32:11.471Z"
             }
           ]
         }
